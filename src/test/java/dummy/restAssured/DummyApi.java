@@ -28,3 +28,5 @@ public class DummyApi {
 		System.out.println("Status code: "+res.getStatusCode());
 	}
 }
+//To mark changes in GIT
+//git practice
